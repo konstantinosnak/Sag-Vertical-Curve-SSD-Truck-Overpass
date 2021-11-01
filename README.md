@@ -4,6 +4,8 @@ Vertical clearance assessment of overpassing structures on sag vertical curves f
 
 *For every possible combination of speed, curve, and grade the positions where driver sight distance gets interrupted get calculated.*
 
+All calculated result .csv files can be found at [https://github.com/konstantinosnak/Sag-Vertical-Curve-SSD-Truck-Overpass/releases/download/1.0/results-final.zip](https://github.com/konstantinosnak/Sag-Vertical-Curve-SSD-Truck-Overpass/releases/download/1.0/results-final.zip)
+
 ## Installation
 
 - Python 3.6+ is required (with pip) to be installed in the system and available in path.
